@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 6009f25c369a94a42947c4b48e10d85b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2201809953493346983
+    second: Unown_0
+  - first:
+      213: 1367435762581303436
+    second: Unown_1
+  - first:
+      213: -7285036172205660253
+    second: Unown_2
+  - first:
+      213: 9209306899280951031
+    second: Unown_3
+  - first:
+      213: -8739694964735566509
+    second: Unown_4
+  - first:
+      213: 1112499379332467446
+    second: Unown_5
+  - first:
+      213: -769420600141421380
+    second: Unown_6
+  - first:
+      213: -824929374902397424
+    second: Unown_7
+  - first:
+      213: -7163591192829502941
+    second: Unown_8
+  - first:
+      213: 4069927988061132894
+    second: Unown_9
+  - first:
+      213: -6421837359285784185
+    second: Unown_10
+  - first:
+      213: 1739746613141500231
+    second: Unown_11
+  - first:
+      213: 3989116198608903500
+    second: Unown_12
+  - first:
+      213: -8805949929564104296
+    second: Unown_13
+  - first:
+      213: 3839963662109799638
+    second: Unown_14
+  - first:
+      213: -7777436440955487460
+    second: Unown_15
+  - first:
+      213: 7177690588845692082
+    second: Unown_16
+  - first:
+      213: 3448310035709992081
+    second: Unown_17
+  - first:
+      213: 9046945720777757001
+    second: Unown_18
+  - first:
+      213: 7512085439822680849
+    second: Unown_19
+  - first:
+      213: -7547908397980286350
+    second: Unown_20
+  - first:
+      213: 2791857761293521876
+    second: Unown_21
+  - first:
+      213: -42541424975253154
+    second: Unown_22
+  - first:
+      213: -6686998232877471159
+    second: Unown_23
+  - first:
+      213: 7362765417365265034
+    second: Unown_24
+  - first:
+      213: -7244827147747104833
+    second: Unown_25
+  - first:
+      213: 4732571455849241231
+    second: Unown_26
+  - first:
+      213: 1800634715657721363
+    second: Unown_27
+  - first:
+      213: 8258368168791414413
+    second: Unown_28
+  - first:
+      213: -8781825498316501243
+    second: Unown_29
+  - first:
+      213: -6794386060795442852
+    second: Unown_30
+  - first:
+      213: 3072958142414129180
+    second: Unown_31
+  - first:
+      213: 8282704027698563060
+    second: Unown_32
+  - first:
+      213: -2423872723784615983
+    second: Unown_33
+  - first:
+      213: 1670141359238488342
+    second: Unown_34
+  - first:
+      213: -2661456255826636151
+    second: Unown_35
+  - first:
+      213: 4928244250865574011
+    second: Unown_36
+  - first:
+      213: 479706928220230369
+    second: Unown_37
+  - first:
+      213: -4928105785813941586
+    second: Unown_38
+  - first:
+      213: -3994047859935952775
+    second: Unown_39
+  - first:
+      213: 7941189644611805545
+    second: Unown_40
+  - first:
+      213: -5904068787815534723
+    second: Unown_41
+  - first:
+      213: -6636737856975342052
+    second: Unown_42
+  - first:
+      213: -5048736901068404288
+    second: Unown_43
+  - first:
+      213: 2929109913246475816
+    second: Unown_44
+  - first:
+      213: 4001526838451701447
+    second: Unown_45
+  - first:
+      213: -5529008332946009800
+    second: Unown_46
+  - first:
+      213: 892409163217600952
+    second: Unown_47
+  - first:
+      213: 2694895147184709709
+    second: Unown_48
+  - first:
+      213: -5275680829688188676
+    second: Unown_49
+  - first:
+      213: 1265725214190755326
+    second: Unown_50
+  - first:
+      213: 8889555437395234293
+    second: Unown_51
+  - first:
+      213: 2613693492706635142
+    second: Unown_52
+  - first:
+      213: -7909483846272386455
+    second: Unown_53
+  - first:
+      213: 7358229095846942825
+    second: Unown_54
+  - first:
+      213: -4553055099113887608
+    second: Unown_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unown_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 419
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551c1353899171e0800000000000000
+      internalID: -2201809953493346983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 419
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f2d1c49b1af210800000000000000
+      internalID: 1367435762581303436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 419
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a76fcbf23a56ea90800000000000000
+      internalID: -7285036172205660253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 419
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f137f4d70ecf70800000000000000
+      internalID: 9209306899280951031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 420
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d9aa50cbd56b680800000000000000
+      internalID: -8739694964735566509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 419
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa44fd8a44607f00800000000000000
+      internalID: 1112499379332467446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 417
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4e3bd6a087255f0800000000000000
+      internalID: -769420600141421380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 363
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016582caa134d84f0800000000000000
+      internalID: -824929374902397424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 362
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad743b3cfc59c90800000000000000
+      internalID: -7163591192829502941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 363
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58ddc511f94b7830800000000000000
+      internalID: 4069927988061132894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 363
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781307232fc01e6a0800000000000000
+      internalID: -6421837359285784185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 363
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741fc7bb352d42810800000000000000
+      internalID: 1739746613141500231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 362
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d17d12c003c5730800000000000000
+      internalID: 3989116198608903500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 364
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899947ae13bfac580800000000000000
+      internalID: -8805949929564104296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 306
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4767e0b9a4a4530800000000000000
+      internalID: 3839963662109799638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 306
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b7ba973cef01490800000000000000
+      internalID: -7777436440955487460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 311
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4dfcfbf874c9360800000000000000
+      internalID: 7177690588845692082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 308
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c98e125bbdadf20800000000000000
+      internalID: 3448310035709992081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 306
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d23543353d8d70800000000000000
+      internalID: 9046945720777757001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 308
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113d30328e9404860800000000000000
+      internalID: 7512085439822680849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 308
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27282357d41704790800000000000000
+      internalID: -7547908397980286350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 254
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3515d87dbaeb620800000000000000
+      internalID: 2791857761293521876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 255
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517c14acccd86ff0800000000000000
+      internalID: -42541424975253154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 256
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a6ca359820333a0800000000000000
+      internalID: -6686998232877471159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 253
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a5692332ccd2660800000000000000
+      internalID: 7362765417365265034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 251
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76d670814357b90800000000000000
+      internalID: -7244827147747104833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 17
+        height: 34
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1c043aa87da140800000000000000
+      internalID: 4732571455849241231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 250
+        width: 22
+        height: 34
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d305dbb32df810800000000000000
+      internalID: 1800634715657721363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d869435481e9b9270800000000000000
+      internalID: 8258368168791414413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 195
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f8065cc30b02680800000000000000
+      internalID: -8781825498316501243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 195
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590c6b30ed75b1a0800000000000000
+      internalID: -6794386060795442852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 195
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c180d38362755aa20800000000000000
+      internalID: 3072958142414129180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 196
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78ba6fd6312f270800000000000000
+      internalID: 8282704027698563060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 195
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d73f06999cac5ed0800000000000000
+      internalID: -2423872723784615983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_34
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 193
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611291aa7b88d2710800000000000000
+      internalID: 1670141359238488342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 139
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9825636e2ab901bd0800000000000000
+      internalID: -2661456255826636151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 138
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7024330904a46440800000000000000
+      internalID: 4928244250865574011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 139
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e25cdcd8e248a600800000000000000
+      internalID: 479706928220230369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_38
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 139
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea24305e5e9db9bb0800000000000000
+      internalID: -4928105785813941586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_39
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 139
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970cb9cf1aa4298c0800000000000000
+      internalID: -3994047859935952775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 138
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e81558e5c43e60800000000000000
+      internalID: 7941189644611805545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 140
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa8c4f7b8801ea0800000000000000
+      internalID: -5904068787815534723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 82
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16f89ff41295e3a0800000000000000
+      internalID: -6636737856975342052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 82
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9496fa9884fe9b0800000000000000
+      internalID: -5048736901068404288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_44
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a12f62f946a820800000000000000
+      internalID: 2929109913246475816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 84
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c60b156577488730800000000000000
+      internalID: 4001526838451701447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 82
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831149217340543b0800000000000000
+      internalID: -5529008332946009800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 84
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b183efd769726c00800000000000000
+      internalID: 892409163217600952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 84
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d406ed2bbd0366520800000000000000
+      internalID: 2694895147184709709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 30
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f816bc3409c6b0800000000000000
+      internalID: -5275680829688188676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 31
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd581f4062c09110800000000000000
+      internalID: 1265725214190755326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_51
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 32
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdc519429b0e5b70800000000000000
+      internalID: 8889555437395234293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d67883264b54420800000000000000
+      internalID: 2613693492706635142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_53
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 27
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a7e3a195edb3290800000000000000
+      internalID: -7909483846272386455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 17
+        height: 34
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96896e9806ead1660800000000000000
+      internalID: 7358229095846942825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unown_55
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 26
+        width: 22
+        height: 34
+      alignment: 9
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888298ea28c40d0c0800000000000000
+      internalID: -4553055099113887608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
