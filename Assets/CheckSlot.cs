@@ -10,6 +10,7 @@ public class CheckSlot : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        //Determina el texto que deberia ir en la parte inferior en el boton
         switch (other.tag)
         {
             case "Fusionar":
@@ -35,6 +36,7 @@ public class CheckSlot : MonoBehaviour
             default:
                 break;
         }
+
         //if (other.gameObject.tag == "Fusionar")
         //{
            
