@@ -9,36 +9,40 @@ public class ElementScript : MonoBehaviour
     public int maxQuantity;
     public int grabbedAmount;
 
+    
+
     public Text actual;
     public Text total;
 
-    public Text sliderValue;
 
     [SerializeField]
     private Slider slider;
+    public Text sliderValue;
+
     [SerializeField]
-    private Text text;
+    private InputField input;
+
+    public int totalValue;
 
     private void Start()
     {
         actualQuantity = maxQuantity;
-        slider.onValueChanged.AddListener((v) =>
-        {
-            text.text = v.ToString();
-        });
+        slider.maxValue = maxQuantity;
     }
 
     private void Update()
     {
-        GetInentory();
+        GetInventory();
+        TextUpdate();
+        
     }
 
     public void ReduceQuantity()
     {
         if (actualQuantity > 0)
         {
-            actualQuantity -= 1;
-            grabbedAmount += 1;
+            actualQuantity -= (int)slider.value;
+            grabbedAmount += (int)slider.value;
         }
         else
         {
@@ -52,8 +56,8 @@ public class ElementScript : MonoBehaviour
     {
         if (actualQuantity < maxQuantity)
         {
-            actualQuantity += 1;
-            grabbedAmount -= 1;
+            actualQuantity += (int)slider.value;
+            grabbedAmount -= (int)slider.value;
         }
         else
         {
@@ -62,10 +66,16 @@ public class ElementScript : MonoBehaviour
         }
     }
 
-    public void GetInentory()
+    public void GetInventory()
     {
         actual.text = actualQuantity.ToString();
         total.text = maxQuantity.ToString();
         sliderValue.text = grabbedAmount.ToString();
+    }
+
+    public void TextUpdate()
+    {
+        string sliderMessage = slider.value.ToString();
+        sliderValue.text = sliderMessage;
     }
 }
