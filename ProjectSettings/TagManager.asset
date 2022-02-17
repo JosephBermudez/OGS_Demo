@@ -9,6 +9,10 @@ TagManager:
   - Descubrir
   - Donar
   - Alquimia
+  - Element1
+  - Element2
+  - Element3
+  - Element4
   layers:
   - Default
   - TransparentFX

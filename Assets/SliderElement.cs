@@ -7,16 +7,23 @@ public class SliderElement : MonoBehaviour
 {
     [SerializeField]
     private Slider slider;
-    [SerializeField]
-    private Text text;
+
+    public Text sliderValue;
 
     private void Start()
     {
-        text = GetComponent<Text>();
+        sliderValue = GetComponent<Text>();
+        
     }
 
-    public void textUpdate(int value)
+    private void Update()
     {
-        text.text = Mathf.RoundToInt(value) + "units";
+        TextUpdate();
+    }
+
+    public void TextUpdate()
+    {
+        string sliderMessage = slider.value.ToString();
+        sliderValue.text = sliderMessage;
     }
 }
